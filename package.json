@@ -1,6 +1,6 @@
 {
   "name": "gcb-router-mini",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "商家应用pc端路由组件",
   "main": "index.js",
   "scripts": {
@@ -13,21 +13,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ppoliubin/gcb-mini-router"
+    "url": "https://github.com/ppoliubin/mini-router"
   },
-  "author": "ppoliubin",
+  "author": "7revor",
   "license": "ISC",
   "devDependencies": {
-    "@babel/cli": "^7.7.0",
     "@babel/core": "^7.7.2",
-    "@babel/polyfill": "^7.7.0",
     "@babel/preset-env": "^7.7.1",
     "uglify-js": "^3.6.9"
   },
   "publishConfig": {
     "access": "public"
-  },
-  "dependencies": {
-    "py-mini-router": "^3.3.0"
   }
 }
