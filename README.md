@@ -7,13 +7,13 @@
 
 # 安装
 ```
-npm i gcb-mini-router -S
+npm i gcb-router-mini -S
 ```
 
 # 使用
 ```js
 import routerConfig from './router';   //路由定义
-import Router from 'gcb-mini-router';  //引入初始化方法
+import Router from 'gcb-router-mini';  //引入初始化方法
 Page({
  
   onLoad() {
@@ -58,7 +58,7 @@ export default {
 {
   "component": true,
   "usingComponents": {
-    "router-view": "gcb-mini-router/router/router",
+    "router-view": "gcb-router-mini/router/router",
   }
 }
 ```
