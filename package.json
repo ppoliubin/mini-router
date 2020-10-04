@@ -1,6 +1,6 @@
 {
-  "name": "gcb-mini-router",
-  "version": "1.0.0",
+  "name": "qd-mini-router",
+  "version": "1.0.1",
   "description": "商家应用pc端路由组件",
   "main": "index.js",
   "scripts": {
@@ -26,5 +26,8 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "py-mini-router": "^3.3.0"
   }
 }

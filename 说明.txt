@@ -1,0 +1,2 @@
+#运行方式
+npm run-script build   打包后会出现index.js
