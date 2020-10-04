@@ -1,6 +1,6 @@
 {
-  "name": "qd-mini-router",
-  "version": "1.0.1",
+  "name": "gcb-router-mini",
+  "version": "1.0.0",
   "description": "商家应用pc端路由组件",
   "main": "index.js",
   "scripts": {
